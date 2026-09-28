@@ -77,6 +77,9 @@ KAIST, Daejeon (Korea), 11-22 Jan 2027
 
 
 ## 2026
+[XXII Avogadro Meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/53745/)
+Genova (Italy), 16-18 December 2026
+
 [String Data 2026](https://rakkyeongseong.github.io/stringdata2026/)  
 Ulsan National Institute of Science and Technology (UNIST), Ulsan (South Korea), 9 - 11 December 2026
 
